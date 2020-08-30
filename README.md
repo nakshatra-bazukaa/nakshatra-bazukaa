@@ -17,6 +17,13 @@
 
 <br>
 
+👇 Type in your terminal and connect with me 👇
+
+```bash
+npx nakshatra
+```
+---
+
 <h1>GitHub Stats</h1>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true" alt="nakshatra-bazukaa" /> </p>
 
@@ -44,15 +51,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bazukaaNaksh?label=Follow)](https://twitter.com/in/bazukaaNamks/)
 [![Linkedin: Nakshatra](https://img.shields.io/badge/-Nakshatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nakshatra-gupta-0199b9181/)](https://www.linkedin.com/in/nakshatra-gupta-0199b9181//)
 [![GitHub followers](https://img.shields.io/github/followers/nakshatra-bazukaa?label=Follow&style=social)](https://github.com/nakshatra-bazukaa/)
-
-
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
----
 
 -->
 
