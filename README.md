@@ -1,16 +1,62 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋  I'm Nakshatra Gupta <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
+<br>
 
-<!--
-**nakshatra-bazukaa/nakshatra-bazukaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media4.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47n9c72ma5ensnthsz0e601zagbrbuz9eabfe64i3y&rid=giphy.gif" >
 
-Here are some ideas to get you started:
+- 🔭 A Developer in the process to create solutions for the problems around me.
+- 🌱 I’m currently persuing my undergrad from **NIT Silchar**.
+- 👯 Always ready to **collaborate**.
+- 💬 Ask me anything about **Tech**.
+- 😄 Pronouns: **He | Him**
+- ⚡ Fun fact: I love to talk about **Dragon Ball**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40"/>
+<p/>
+
+<br>
+
+<h1>GitHub Stats</h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true" alt="nakshatra-bazukaa" /> </p>
+
+<br>
+<br>
+
+<p align="center">
+<a href="https://twitter.com/bazukaaNaksh">
+  <img align="centre" alt="Nakshatra's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nakshatra-gupta-0199b9181/">
+  <img align="centre" alt="Nakshatra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/nakshatraBazukaa">
+  <img align="centre" alt="Nakshatra's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/nakshatra_bazukaa/">
+  <img align="centre" alt="Nakshatra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<p/>
+
+
+<!-- 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bazukaaNaksh?label=Follow)](https://twitter.com/in/bazukaaNamks/)
+[![Linkedin: Nakshatra](https://img.shields.io/badge/-Nakshatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nakshatra-gupta-0199b9181/)](https://www.linkedin.com/in/nakshatra-gupta-0199b9181//)
+[![GitHub followers](https://img.shields.io/github/followers/nakshatra-bazukaa?label=Follow&style=social)](https://github.com/nakshatra-bazukaa/)
+
+
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+---
+
 -->
+
+
+  
+
+
