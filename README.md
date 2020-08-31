@@ -12,7 +12,7 @@
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="40" height="40"/>
 <p/>
 
 <br>
