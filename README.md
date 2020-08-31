@@ -1,9 +1,11 @@
-<h1 align="center">Hi there 👋  I'm Nakshatra Gupta <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
+<h1 >Hi there 👋, nice to see you!</h1>
+<h1 align="center">I'm Nakshatra Gupta <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
+
 <br>
 
 <img align='right' src="https://media4.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47n9c72ma5ensnthsz0e601zagbrbuz9eabfe64i3y&rid=giphy.gif" >
 
-- 🔭 A Developer in the process to create solutions for the problems around me.
+- 🔭 An Android Developer in the process to create solutions for the problems around me.
 - 🌱 I’m currently persuing my undergrad from **NIT Silchar**.
 - 👯 Always ready to **collaborate**.
 - 💬 Ask me anything about **Tech**.
@@ -42,6 +44,9 @@ npx nakshatra
 </a>
 <a href="https://www.instagram.com/nakshatra_bazukaa/">
   <img align="centre" alt="Nakshatra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/nakshatra.gupta.90/">
+  <img align="centre" alt="Nakshatra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <p/>
 
