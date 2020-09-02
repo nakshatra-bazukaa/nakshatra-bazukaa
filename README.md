@@ -27,10 +27,14 @@ npx nakshatra
 ---
 
 <h1>GitHub Stats</h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true" alt="nakshatra-bazukaa" /> </p>
+<p align="centre"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true" alt="nakshatra-bazukaa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&layout=compact&card_width=250&hide_border=true"/>
+</p>
 
 <br>
 <br>
+
 
 <p align="center">
 <a href="https://twitter.com/bazukaaNaksh">
