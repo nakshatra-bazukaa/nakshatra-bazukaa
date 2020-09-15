@@ -1,5 +1,5 @@
 <h1 >Hi there 👋, nice to see you!</h1>
-<h1 align="center">I'm Nakshatra Gupta <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
+<h1 align="center">I'm <a href="https://nakshatra-bazukaa.github.io/">Nakshatra Gupta</a> <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
 
 <br>
 
