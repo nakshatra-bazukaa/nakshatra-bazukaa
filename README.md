@@ -1,9 +1,11 @@
-<h1 >Hi there 👋, nice to see you!</h1>
+<h1 align="center">Hi there 👋, nice to see you!</h1>
 <h1 align="center">I'm <a href="https://nakshatra-bazukaa.github.io/">Nakshatra Gupta</a> <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
 
 <br>
 
 <img align='right' src="https://media4.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47n9c72ma5ensnthsz0e601zagbrbuz9eabfe64i3y&rid=giphy.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakshatra-bazukaa" alt="nakshatra-bazukaa" /> </p>
 
 - 🔭 An Android Developer in the process to create solutions for the problems around me.
 - 🌱 I’m currently persuing my undergrad from **NIT Silchar**.
@@ -53,17 +55,3 @@ npx nakshatra
   <img align="centre" alt="Nakshatra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <p/>
-
-
-<!-- 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/bazukaaNaksh?label=Follow)](https://twitter.com/in/bazukaaNamks/)
-[![Linkedin: Nakshatra](https://img.shields.io/badge/-Nakshatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nakshatra-gupta-0199b9181/)](https://www.linkedin.com/in/nakshatra-gupta-0199b9181//)
-[![GitHub followers](https://img.shields.io/github/followers/nakshatra-bazukaa?label=Follow&style=social)](https://github.com/nakshatra-bazukaa/)
-
--->
-
-
-  
-
-
