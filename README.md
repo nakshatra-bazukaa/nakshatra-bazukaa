@@ -34,8 +34,8 @@ npx nakshatra
 
 <h1>GitHub Stats</h1>
 <p align="centre"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true" alt="nakshatra-bazukaa" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&layout=compact&card_width=250&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true&theme=gotham" alt="nakshatra-bazukaa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&layout=compact&card_width=250&hide_border=true&theme=gotham"/>
 </p>
 
 <br>
