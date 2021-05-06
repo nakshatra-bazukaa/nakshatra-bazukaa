@@ -4,12 +4,13 @@
 
 <h2>About me :raising_hand_man:</h2>
 
-- 🔭 An Android Developer in the process to create solutions for the problems around me.
+- 🔭 An Android and MERN stack Developer in the process to create solutions for the problems around me.
 - 🌱 I’m currently persuing my undergrad from **NIT Silchar**.
 - 👯 Always ready to **collaborate**.
 - 💬 Ask me anything about **Tech**.
 - 😄 Pronouns: **He | Him**
 - ⚡ Fun fact: I love to talk about **Dragon Ball**
+- 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/nakshatra-gupta-0199b9181/" target="_blank">LinkedIn</a>
   <br/>
   <br/>
 
