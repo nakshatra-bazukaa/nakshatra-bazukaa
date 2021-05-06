@@ -1,11 +1,8 @@
-<h1 align="center">Hi there 👋, nice to see you!</h1>
-<h1 align="center">I'm <a href="https://nakshatra-bazukaa.github.io/">Nakshatra Gupta</a> <img src="https://media0.giphy.com/media/dieGgjBPDS9jy/giphy.gif" width="50"></h1>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey!%20I%20am%20Nakshatra%20Gupta&fontSize=40)
+<br>
 <br>
 
-<img align='right' src="https://media4.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47n9c72ma5ensnthsz0e601zagbrbuz9eabfe64i3y&rid=giphy.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakshatra-bazukaa" alt="nakshatra-bazukaa" /> </p>
+<h2>About me :raising_hand_man:</h2>
 
 - 🔭 An Android Developer in the process to create solutions for the problems around me.
 - 🌱 I’m currently persuing my undergrad from **NIT Silchar**.
@@ -13,50 +10,106 @@
 - 💬 Ask me anything about **Tech**.
 - 😄 Pronouns: **He | Him**
 - ⚡ Fun fact: I love to talk about **Dragon Ball**
+  <br/>
+  <br/>
 
-<br>
-<br>
-<br>
+<h2> Let's Connect :coffee:</h2>
+<br/>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="40" height="40"/>
-<p/>
-
-<br>
-
-👇 Type in your terminal and connect with me 👇
-
-```bash
-npx nakshatra
-```
----
-
-<h1>GitHub Stats</h1>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true&theme=gotham" alt="nakshatra-bazukaa" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&layout=compact&card_width=250&hide_border=true&theme=gotham"/>
+	<a href="https://www.linkedin.com/in/nakshatra-gupta-0199b9181/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/nakshatra-bazukaa/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.instagram.com/nakshatra_bazukaa/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:nakshatravasugupta@gmail.com@gmail.com"> <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt = "Gmail" /></a>
+	<a href="https://www.facebook.com/nakshatra.gupta.90/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
+<br/> 
+<br/>
 
-<br>
-<br>
+<h2>🌱 Have a look at my coding profiles 👇</h2>
 
+<p>
+      <a href="https://codeforces.com/profile/bazukaa">
+	  <img alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
+      </a>
+      <a href="https://www.hackerrank.com/nakshatravasugu1">
+          <img alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
+      </a>
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h2>Languages & Frameworks & Tools & Abilities</h2>
+<br/>
 
 <p align="center">
-<a href="https://twitter.com/bazukaaNaksh">
-  <img align="centre" alt="Nakshatra's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nakshatra-gupta-0199b9181/">
-  <img align="centre" alt="Nakshatra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/nakshatraBazukaa">
-  <img align="centre" alt="Nakshatra's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/nakshatra_bazukaa/">
-  <img align="centre" alt="Nakshatra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/nakshatra.gupta.90/">
-  <img align="centre" alt="Nakshatra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<p/>
+  <code><img title="Android" height="25" src="./images/android.svg"></code>
+  <code><img title="JAVA" height="25" src="./images/java-original.svg"></code>
+  <code><img title="C" height="25" src="./images/c.svg"></code>
+  <code><img title="C++" height="25" src="./images/cpp.svg"></code>
+  <code><img title="Javascript" height="25" src="./images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="./images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="./images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="./images/css.svg"></code>
+  <code><img title="SASS" height="25" src="./images/sass.svg"></code>
+  <code><img title="React" height="25" src="./images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="./images/redux.svg"></code>
+  <code><img title="Python" height="25" src="./images/python-original.svg"></code>
+  <code><img title="Git" height="25" src="./images/git-original.svg"></code>
+  <code><img title="NPM" height="25" src="./images/npm.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="./images/vscode.png"></code>
+  <code><img title="MySQL" height="25" src="./images/mysql.svg"></code>
+  <code><img title="JSON" height="25" src="./images/json.svg"></code>
+  <code><img title="JQuery" height="25" src="./images/jquery-original.svg"></code>
+  <code><img title="GitHub" height="25" src="./images/github.svg"></code>
+</p>
+<br>
+<br>
+
+<h2>:star: My Stats</h2>
+<br/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      
+![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord)
+
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra-bazukaa&hide_border=true&theme=nord" alt="nakshatra-bazukaa">
+
+</td>
+<td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&langs_count=10&&count_private=true&theme=nord)](https://github.com/nakshatra-bazukaa/github-readme-stats)
+
+</td>
+  </tr>
+</table>
+
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=nakshatra-bazukaa&margin-w=28&margin-h=15&theme=nord" />
+</a></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nakshatra-bazukaa&theme=react-dark)
+
+<!-- <p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskan-1527&langs_count=4&count_private=true&theme=nord" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muskan-1527&margin-w=28&margin-h=15&theme=nord" />
+</a></p> -->
+ <br>
+ <br>
+ 
+ 
+<h2>👯 Visitor's count :eyes:</h2>
+<br/>
+
+<p><img src="https://profile-counter.glitch.me/{nakshatra-bazukaa}/count.svg" alt="Nakshatra's :: Visitor's Count" /></p>
+<br/>
+<br/>
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=&fontSize=40)
