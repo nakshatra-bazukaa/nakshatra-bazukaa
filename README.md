@@ -29,9 +29,12 @@
 
 <h2>🌱 Have a look at my coding profiles 👇</h2>
 
-<p>
+<p align="center">
       <a href="https://codeforces.com/profile/bazukaa">
 	  <img alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
+      </a>
+      <a href="https://www.codechef.com/users/bazukaa">
+          <img alt="CodeChef" width="32px" src="./svgs/codechef.svg" />
       </a>
       <a href="https://www.hackerrank.com/nakshatravasugu1">
           <img alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
