@@ -34,10 +34,10 @@
 	  <img alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
       </a>
       <a href="https://www.codechef.com/users/bazukaa">
-          <img alt="CodeChef" width="32px" src="./svgs/codechef.svg" />
+          <img alt="CodeChef" width="42px" src="./svgs/codechef.svg" />
       </a>
       <a href="https://www.hackerrank.com/nakshatravasugu1">
-          <img alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
+          <img alt="Hackerrank" width="42px" src="./svgs/hackerrank.svg" />
       </a>
 </p>
 <br/>
