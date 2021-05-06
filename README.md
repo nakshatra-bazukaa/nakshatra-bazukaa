@@ -76,7 +76,7 @@
       
 ![Nakshatra's github stats](https://github-readme-stats.vercel.app/api?username=nakshatra-bazukaa&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord)
 
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra-bazukaa&hide_border=true&theme=nord" alt="nakshatra-bazukaa">
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra-bazukaa&theme=nord" alt="nakshatra-bazukaa">
 
 </td>
 <td>
@@ -91,7 +91,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nakshatra-bazukaa&margin-w=28&margin-h=15&theme=nord" />
 </a></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nakshatra-bazukaa&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nakshatra-bazukaa&theme=nord)
 
 <!-- <p align="center"><a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
