@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey!%20I%20am%20Nakshatra%20Gupta&fontSize=40)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey!%20I%20am%20Nakshatra%20Gupta&fontSize=40)](https://nakshatra-bazukaa.github.io/)
 <br>
 <br>
 
@@ -10,7 +10,7 @@
 - 💬 Ask me anything about **Tech**.
 - 😄 Pronouns: **He | Him**
 - ⚡ Fun fact: I love to talk about **Dragon Ball**
-- 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/nakshatra-gupta-0199b9181/" target="_blank">LinkedIn</a>
+- 📫 Feel free to ping me <a href="https://www.linkedin.com/in/nakshatra-gupta-0199b9181/" target="_blank">here</a>
   <br/>
   <br/>
 
