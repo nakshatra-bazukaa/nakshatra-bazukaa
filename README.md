@@ -81,7 +81,7 @@
 </td>
 <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&langs_count=10&&count_private=true&theme=nord)](https://github.com/nakshatra-bazukaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra-bazukaa&langs_count=10&&count_private=true&theme=nord)]
 
 </td>
   </tr>
