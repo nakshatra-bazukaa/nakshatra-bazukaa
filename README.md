@@ -27,6 +27,14 @@
 <br/> 
 <br/>
 
+<h2>👇 Type in your terminal and connect with me 👇</h2>
+
+```bash
+npx nakshatra
+```
+<br/> 
+<br/>
+
 <h2>🌱 Have a look at my coding profiles 👇</h2>
 
 <p align="center">
