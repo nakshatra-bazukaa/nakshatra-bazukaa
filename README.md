@@ -44,7 +44,7 @@ npx nakshatra
       <a href="https://www.codechef.com/users/bazukaa">
           <img alt="CodeChef" width="42px" src="./svgs/codechef.svg" />
       </a>
-      <a href="https://www.hackerrank.com/nakshatravasugu1">
+      <a href="https://www.hackerrank.com/bazukaa">
           <img alt="Hackerrank" width="42px" src="./svgs/hackerrank.svg" />
       </a>
 </p>
